@@ -124,11 +124,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('/img/apple-button.png');
+    background-image: url('https://flaviohnm.github.io/projetoinstagram/img/apple-button.png');
 }
 
 .app-download:nth-child(2) {
-    background-image: url('/img/googleplay-button.png');
+    background-image: url('https://flaviohnm.github.io/projetoinstagram/img/googleplay-button.png');
 }
 
 .instagram-footer {
